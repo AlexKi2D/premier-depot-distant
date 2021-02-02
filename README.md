@@ -14,3 +14,12 @@ username : git config --global user.name "nom.user"
 email : git config --global user.email "mon@email.com"
 
 pour verifier : git config --global --list
+
+## Git clone
+
+Cette commande git clone permet de recuperer une copie d'un depot distant sur notre machine.
+On peut ainsi travailler en local avec VScode , ce qui est plus pratique.
+
+## Git pull
+
+Avec cette commande on va pouvoir recuperer notre projet distant mis a jour dans notre dépot local
