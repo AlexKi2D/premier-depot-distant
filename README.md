@@ -23,3 +23,7 @@ On peut ainsi travailler en local avec VScode , ce qui est plus pratique.
 ## Git pull
 
 Avec cette commande on va pouvoir recuperer notre projet distant mis a jour dans notre dépot local
+
+## Test solo
+
+Je test le push
