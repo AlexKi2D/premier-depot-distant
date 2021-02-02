@@ -27,3 +27,16 @@ Avec cette commande on va pouvoir recuperer notre projet distant mis a jour dans
 ## Test solo
 
 Je test le push
+
+## Git add
+
+Dans VSCode on peut ajouter une nouvelle version d'un fichier à la zone de surveillance
+
+## Git commit
+
+Avec cette commande on enregistre dans l'historique une nouvelle version de notre application.( message le plus précis possible pour trouver facilement les differentes versions)
+
+## Git Push
+
+Afin de garder aussi ressemblant que possible le dépot local et le depot distant.
+
