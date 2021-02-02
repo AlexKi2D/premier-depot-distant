@@ -1,3 +1,3 @@
 # Découverte de Git
 
-On apprend le Code =)
+On apprend le Git avec Nico
