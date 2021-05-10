@@ -21,12 +21,12 @@ et suivre ce tutorial très bien expliqué :
 # Accessibilité
 
 ## dossier gamekult :
-------------------
+
 
 https://www.gamekult.com/actualite/handicap-et-jeu-video-en-2020-l-accessibilite-n-est-plus-une-option-3050831221.html
 
 ## Articles interessant concernant l'accessibilité dans le jeu-video :
--------------------------------------------------------------------
+
 
 ##### Reportage dans la vie d'un gamer handicapé : https://youtu.be/O-sCOraabAY
 
@@ -39,7 +39,7 @@ https://www.gamekult.com/actualite/handicap-et-jeu-video-en-2020-l-accessibilite
 ##### Reportage de Hichem par le Cnam : https://mediaserver.cnam.fr/permalink/v125f5947ccdbd8bbxjn/
 
 ## Dossier microsoft :
--------------------
+
 
 https://www.xbox.com/fr-FR/community/for-everyone/accessibility
 
