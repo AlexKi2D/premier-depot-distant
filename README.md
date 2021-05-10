@@ -46,10 +46,10 @@ https://www.xbox.com/fr-FR/community/for-everyone/accessibility
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+## wiki and co'
 
 -   **_Gamers Outreach Foundation (@GamersOutreach)_** , qui aide les malades dans les hopitaux : https://en.wikipedia.org/wiki/Gamers\_Outreach\_Foundation
 
--   **_CapGame ( @Capgame\_France )_**: association francaise : documentaire : https://www.capgame.fr/accueil/articles-presse/
+-   **_CapGame ( @Capgame\_France ) ( https://https://www.capgame.fr/ )_**: association francaise : documentaire : https://www.capgame.fr/accueil/articles-presse/
 
   
