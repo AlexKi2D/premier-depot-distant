@@ -23,15 +23,15 @@ https://www.gamekult.com/actualite/handicap-et-jeu-video-en-2020-l-accessibilite
 ## Articles interessant concernant l'accessibilité dans le jeu-video :
 
 
-##### Reportage dans la vie d'un gamer handicapé : https://youtu.be/O-sCOraabAY
+##### * Reportage dans la vie d'un gamer handicapé : https://youtu.be/O-sCOraabAY
 
-##### Petit reportage avec RockyNoHands : https://youtu.be/ZMvikz2cA-8
+##### * Petit reportage avec RockyNoHands : https://youtu.be/ZMvikz2cA-8
 
-##### Très gros dossier de REDStudio (petite team independante) sur l'accessibilité jv : https://www.redstudio.xyz/post/comment-concilier-handicap-et-jeu-vid%C3%A9o
+##### * Très gros dossier de REDStudio (petite team independante) sur l'accessibilité jv : https://www.redstudio.xyz/post/comment-concilier-handicap-et-jeu-vid%C3%A9o
 
-##### Jvc : https://youtu.be/Gh-EdFTCJ-o
+##### * Jvc : https://youtu.be/Gh-EdFTCJ-o
 
-##### Reportage de Hichem par le Cnam : https://mediaserver.cnam.fr/permalink/v125f5947ccdbd8bbxjn/
+##### * Reportage de Hichem par le Cnam : https://mediaserver.cnam.fr/permalink/v125f5947ccdbd8bbxjn/
 
 ## Dossier microsoft :
 
@@ -43,8 +43,8 @@ https://www.xbox.com/fr-FR/community/for-everyone/accessibility
 
 ## wiki and co'
 
--   **_Gamers Outreach Foundation (@GamersOutreach)_** , qui aide les malades dans les hopitaux : https://en.wikipedia.org/wiki/Gamers\_Outreach\_Foundation
+* **_Gamers Outreach Foundation (@GamersOutreach)_** , qui aide les malades dans les hopitaux : https://en.wikipedia.org/wiki/Gamers\_Outreach\_Foundation
 
--   **_CapGame ( @Capgame\_France ) ( https://https://www.capgame.fr/ )_**: association francaise : documentaire : https://www.capgame.fr/accueil/articles-presse/
+* **_CapGame ( @Capgame\_France ) ( https://https://www.capgame.fr/ )_**: association francaise : documentaire : https://www.capgame.fr/accueil/articles-presse/
 
   
