@@ -1,17 +1,12 @@
 TESTS éffetués le 10/05/2021
 ----------------------------
 
-créer une BDD test
-
-Installation WP+user
-
-importation d'une 2eme BDD de test jeux\_video.SQL avec PHPmyAdmin
-
-création d'une page Liste.php pour WordPress
-
-petit screenshot de base que l'on peut obtenir : https://gyazo.com/b4ad2971c03ebdcd33be70405f6eac22
-
-et suivre ce tutorial très bien expliqué :
+*créer une BDD test
+*Installation WP+user
+*importation d'une 2eme BDD de test jeux\_video.SQL avec PHPmyAdmin
+*création d'une page Liste.php pour WordPress
+*petit screenshot de base que l'on peut obtenir : https://gyazo.com/b4ad2971c03ebdcd33be70405f6eac22
+*et suivre ce tutorial très bien expliqué :
 
 "https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/914293-lisez-des-donnees"
 
