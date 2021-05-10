@@ -18,6 +18,8 @@ et suivre ce tutorial très bien expliqué :
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Accessibilité
+
 dossier gamekult :
 ------------------
 
@@ -30,7 +32,7 @@ reportage dans la vie d'un gamer handicapé : https://youtu.be/O-sCOraabAY
 
 petit reportage avec RockyNoHands : https://youtu.be/ZMvikz2cA-8
 
-très gros dossier de REDStudio (petite team independantes) sur l'accessibilité jv : https://www.redstudio.xyz/post/comment-concilier-handicap-et-jeu-vid%C3%A9o
+très gros dossier de REDStudio (petite team independante) sur l'accessibilité jv : https://www.redstudio.xyz/post/comment-concilier-handicap-et-jeu-vid%C3%A9o
 
 jvc : https://youtu.be/Gh-EdFTCJ-o
 
